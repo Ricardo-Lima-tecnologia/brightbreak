@@ -1,0 +1,9 @@
+{
+  "name": "brightbreak-play",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BrightBreak Play - Production build for Hostinger",
+  "scripts": {
+    "build": "powershell -ExecutionPolicy Bypass -File ./build.ps1"
+  }
+}
